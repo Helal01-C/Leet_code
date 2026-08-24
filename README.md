@@ -6,6 +6,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Helal01-C/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0463-island-perimeter](https://github.com/Helal01-C/Leet_code/tree/master/0463-island-perimeter) |
 | [0841-keys-and-rooms](https://github.com/Helal01-C/Leet_code/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Helal01-C/Leet_code/tree/master/1971-find-if-path-exists-in-graph) |
@@ -37,4 +38,16 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Helal01-C/Leet_code/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Helal01-C/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Helal01-C/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Helal01-C/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
