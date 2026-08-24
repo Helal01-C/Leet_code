@@ -6,6 +6,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Helal01-C/Leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Helal01-C/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0463-island-perimeter](https://github.com/Helal01-C/Leet_code/tree/master/0463-island-perimeter) |
 | [0841-keys-and-rooms](https://github.com/Helal01-C/Leet_code/tree/master/0841-keys-and-rooms) |
@@ -41,13 +42,16 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Helal01-C/Leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Helal01-C/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Helal01-C/Leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Helal01-C/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Helal01-C/Leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Helal01-C/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
