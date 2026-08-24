@@ -12,6 +12,7 @@
 | [0463-island-perimeter](https://github.com/Helal01-C/Leet_code/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Helal01-C/Leet_code/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Helal01-C/Leet_code/tree/master/0841-keys-and-rooms) |
+| [1905-count-sub-islands](https://github.com/Helal01-C/Leet_code/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Helal01-C/Leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -20,12 +21,14 @@
 | [0463-island-perimeter](https://github.com/Helal01-C/Leet_code/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Helal01-C/Leet_code/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Helal01-C/Leet_code/tree/master/0841-keys-and-rooms) |
+| [1905-count-sub-islands](https://github.com/Helal01-C/Leet_code/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Helal01-C/Leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Helal01-C/Leet_code/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Helal01-C/Leet_code/tree/master/0695-max-area-of-island) |
+| [1905-count-sub-islands](https://github.com/Helal01-C/Leet_code/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Helal01-C/Leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -39,12 +42,14 @@
 | [0200-number-of-islands](https://github.com/Helal01-C/Leet_code/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Helal01-C/Leet_code/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Helal01-C/Leet_code/tree/master/0695-max-area-of-island) |
+| [1905-count-sub-islands](https://github.com/Helal01-C/Leet_code/tree/master/1905-count-sub-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Helal01-C/Leet_code/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Helal01-C/Leet_code/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Helal01-C/Leet_code/tree/master/0695-max-area-of-island) |
+| [1905-count-sub-islands](https://github.com/Helal01-C/Leet_code/tree/master/1905-count-sub-islands) |
 ## Hash Table
 |  |
 | ------- |
