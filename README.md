@@ -84,4 +84,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Helal01-C/Leet_code/tree/master/0232-implement-queue-using-stacks) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Helal01-C/Leet_code/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
