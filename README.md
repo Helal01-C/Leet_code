@@ -42,6 +42,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Helal01-C/Leet_code/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Helal01-C/Leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Helal01-C/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Helal01-C/Leet_code/tree/master/0155-min-stack) |
@@ -67,9 +68,14 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Helal01-C/Leet_code/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/Helal01-C/Leet_code/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Helal01-C/Leet_code/tree/master/0844-backspace-string-compare) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Helal01-C/Leet_code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
