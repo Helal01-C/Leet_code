@@ -24,9 +24,14 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Helal01-C/Leet_code/tree/master/0001-two-sum) |
 | [0463-island-perimeter](https://github.com/Helal01-C/Leet_code/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Helal01-C/Leet_code/tree/master/0463-island-perimeter) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Helal01-C/Leet_code/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
