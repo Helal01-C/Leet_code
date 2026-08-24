@@ -44,6 +44,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Helal01-C/Leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Helal01-C/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/Helal01-C/Leet_code/tree/master/0155-min-stack) |
 ## Tree
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Helal01-C/Leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Helal01-C/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Helal01-C/Leet_code/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
