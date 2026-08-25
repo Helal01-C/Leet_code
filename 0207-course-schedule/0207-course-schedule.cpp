@@ -1,0 +1,36 @@
+class Solution {
+public:
+    bool vis[2005];
+    vector<int> adj_list[2005];
+    bool path_vis[2005];
+    bool cycle;
+
+    void dfs(int src) 
+    {
+         vis[src] = true; 
+         path_vis[src] = true;
+         for(int child : adj_list[src])
+         {
+                if(vis[child] && path_vis[child])
+                    cycle = true;
+                if(!vis[child])
+                 dfs(child);
+         }
+         path_vis[src] = false;
+    }
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) 
+    {
+        for(auto v : prerequisites)
+        {
+            int a = v[0];
+            int b = v[1];
+            adj_list[a].push_back(b);
+        }
+        for(int i=0;i<numCourses;i++)
+        {
+            if(!vis[i])
+               dfs(i);
+        }
+        return !cycle;
+    }
+};
